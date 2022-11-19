@@ -1,6 +1,6 @@
 # BlackJack
 Simulation of a Blackjack game
-Project made by Morosan Eric and Patranjel David
+Project made by Morosan Eric and Patranjel David --> https://github.com/DavidPatranjel
 
 The project follows the simulation of a BlackJack session in which the player wants to win _stop (input) money, starting with _start (input) money. The code plays the game after the basic strategy (https://wizardofodds.com/games/blackjack/strategy/4-decks/) with a 6-deck _N times (input).
 
